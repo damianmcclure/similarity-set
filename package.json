@@ -1,0 +1,25 @@
+{
+    "name": "similarity-set",
+    "version": "1.0.0",
+    "description": "An extension of Set meant for checking similarity of strings. Also offers static functions that can be used seperately from the SimilaritySet.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/damianmcclure/similarity-set"
+    },
+    "keywords": [
+        "string-similarity",
+        "similarity-set",
+        "similarity",
+        "strings",
+        "similar",
+        "difference",
+        "compare",
+        "comparison",
+        "dice",
+        "levensthein",
+        "jaccard"
+    ],
+    "author": "Damian McClure",
+    "license": "WTFPL"
+}
