@@ -1,6 +1,6 @@
 {
     "name": "similarity-set",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "An extension of Set meant for checking similarity of strings. Also offers static functions that can be used seperately from the SimilaritySet.",
     "main": "index.js",
     "repository": {
