@@ -6,7 +6,7 @@ Recommended to install from NPM
 `npm install similarity-set`
 
 ## Description
-I created this to detect monotonous messages to be ignored.. I went with the (string-similarity)[https://www.npmjs.com/package/string-similarity] module at first, but after seeing it was deprecated I decided I probably shouldn't use it.
+I created this to detect monotonous messages to be ignored. I went with the [string-similarity](https://www.npmjs.com/package/string-similarity) module at first, but after seeing it was deprecated I decided I probably shouldn't use it.
 
 This is basically a continuation of the `string-similarity` package made by aceakash. Credits go to them for the dice's coefficient handler.
 
